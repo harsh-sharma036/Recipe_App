@@ -163,7 +163,7 @@ form button[type="submit"]:hover, .recipe button:hover , .recipe-close-btn:hover
     font-size: 18px;
     padding: 10px;
     border-radius: 4px;
-    background-color: #f44336;
+    background-color: #209a3c;
     color: #fff;
     position: absolute;
     top: 20px;
@@ -192,11 +192,11 @@ body::-webkit-scrollbar{
 }
 
 body::-webkit-scrollbar-thumb{
-    background: #8a3333;
+    background: #41a258;
 }
 
 body::-webkit-scrollbar-track{
-    background: #9b6a6a;
+    background: #9ac884;}
 }
 
 /* Responsive Code */
